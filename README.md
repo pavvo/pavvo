@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go, Deno & Jest**
 
-- 👨‍💻 All of my projects are available at [pavvo.github.io](pavvo.github.io)
+- 👨‍💻 All of my projects are available at [pavvo.github.io](pavvo.github.io) (Comming soon)
 
 - 💬 Ask me about **JavaScript, Python, React...**
 
